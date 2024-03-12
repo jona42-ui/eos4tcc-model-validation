@@ -1,0 +1,28 @@
+{
+    "run": {
+        "input": {
+            "key": {
+                "type": "string"
+            },
+            "input": {
+                "type": "string"
+            },
+            "text": {
+                "type": "string"
+            }
+        },
+        "output": {
+            "outcome": {
+                "type": "numeric_array",
+                "shape": [
+                    3
+                ],
+                "meta": [
+                    "score",
+                    "alea",
+                    "epis"
+                ]
+            }
+        }
+    }
+}
