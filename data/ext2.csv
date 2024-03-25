@@ -1,0 +1,4 @@
+"ChEMBL ID";"Name";"UniProt Accessions";"Type";"Organism";"Compounds";"Activities";"Tax ID";"Species Group Flag"
+"CHEMBL4912";"Fructose-bisphosphate aldolase class 2";"P0AB71";"SINGLE PROTEIN";"Escherichia coli K-12";"7";"7";"83333";"False"
+"CHEMBL1287621";"Fructose-bisphosphate aldolase class II";"A0A380PJR2";"SINGLE PROTEIN";"Yersinia pestis";"5";"6";"632";"False"
+"CHEMBL4523320";"Fructose-bisphosphate aldolase class 2";"Q55664";"SINGLE PROTEIN";"Synechocystis sp. (strain PCC 6803 / Kazusa)";"22";"38";"1111708";"False"
